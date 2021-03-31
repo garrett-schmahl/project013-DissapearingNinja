@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+}
+img{
+  border-style:solid;
+  border-width: 3px;
+  border-color:black;
+  width:200px;
+  margin:5px;
+}
+h1{
+  margin: 20px;
+}
+a{
+  margin:20px;
+  background-color:green;
+  color:white;
+  padding:10px;
+  box-shadow : 3px 3px 3px black;
+}
+
+    .image_container{
+      width:900px;
+      display:flex;
+      flex-wrap:wrap;
+      margin-bottom:30px;
+    }
+
+
+
